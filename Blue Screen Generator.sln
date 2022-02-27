@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue Screen Generator", "Blue Screen Generator\Blue Screen Generator.csproj", "{BF0C96F6-3636-4E99-B007-26EDC7DFDB7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0C96F6-3636-4E99-B007-26EDC7DFDB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0C96F6-3636-4E99-B007-26EDC7DFDB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0C96F6-3636-4E99-B007-26EDC7DFDB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0C96F6-3636-4E99-B007-26EDC7DFDB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FB1FD2-DFB5-4686-B5FC-96EA3691BA32}
+	EndGlobalSection
+EndGlobal
